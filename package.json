@@ -1,0 +1,16 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Creando un TODO con node, express y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flow",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  }
+}
